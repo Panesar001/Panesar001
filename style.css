@@ -1,0 +1,125 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: "Montserrat", sans-serif;
+  }
+  .header {
+    background: #3AB4F2;
+  }
+  .navbar {
+    padding-top: 20px !important;
+  }
+  .nav-item {
+    margin-left: 40px;
+    margin-bottom: 10px;
+  }
+  .nav-link {
+    color: #fff !important;
+    font-size: 12px !important;
+    padding: 0 0 5px 0 !important;
+    display: unset !important;
+    /* font-size: 15px !important; */
+  }
+  .navbar-brand img {
+    width: 90px;
+    border-radius: 50%;
+  }
+  .fa-solid {
+    font-size: 40px !important;
+    color: #fff;
+  }
+  .navbar-toggler {
+    border: 0px;
+    outline: none;
+    padding: initial;
+  }
+  .active {
+    border-bottom: 2px solid #fff;
+  }
+  .nav-link:hover {
+    border-bottom: 2px solid #fff;
+  }
+  .banner {
+    color: #fff;
+    margin-top: 2%;
+  }
+  .banner h1 {
+    margin: 80px 0 50px;
+    font-weight: 800;
+    font-size: 50px;
+  }
+  .banner img {
+    max-height: 400px;
+    text-align: center;
+    width: 500px;
+    margin-bottom: 20px;
+  }
+
+  
+  .banner a {
+    padding: 12px;
+    width: 150px;
+    display: inline-block;
+    background-color: #3AB4F2;
+    text-decoration: none !important;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+  
+    font-size: 14px;
+  }
+  .express-btn {
+    background-color: #fff !important;
+    color: #000 !important;
+    margin-right: 5px;
+  }
+  
+  /* testimonal */
+  .testimonal{
+    margin-top: 80px;
+  }
+  .carousel-inner img {
+    width: 440px;
+    max-height:600px !important;
+    border-radius: 10%;
+  }
+  
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 80px;
+    width: 80px;
+    outline: #000;
+    background-color: #1F4690;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+}
+
+.carousel-control-prev-icon:hover, .carousel-control-next-icon:hover {
+    background-color: #3AB4F2;
+}
+
+/* footer  */
+.footer{
+    background: #3AB4F2;
+    margin-top: 80px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+.footer h1{
+    color: #fff;
+}
+.icons{
+    margin-top: 30px;
+}
+.footer a{
+    color: #fff;
+    margin: 40px;
+}
+.footer p{
+    color: #fff;
+    margin-top: 20px;
+    font-style: italic;
+    font-size: smaller;
+    font-weight: 100;
+}
